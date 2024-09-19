@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Test with Actions
+# Test with Actions 🫀
 
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
 
